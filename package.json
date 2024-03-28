@@ -1,5 +1,5 @@
 {
-  "name": "qr-code-generator",
+  "name": "qrbuilderx",
   "version": "1.0.2",
   "description": "A QR code generator npm package for various types of information",
   "main": "generator.js",
