@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+// This script serves as the entry point for the command-line interface (CLI)
+
+const path = require('path');
+const cliPath = path.join(__dirname, '../cli.js');
+
+// Require the CLI script and pass command-line arguments to it
+require(cliPath);
